@@ -31,3 +31,10 @@
     background: #bf8df2;
     border-radius: 5px;
   }
+
+  @media (max-width: 600px) {
+    .title {
+      width: 100%;
+      flex-direction: column;
+    }
+  }
