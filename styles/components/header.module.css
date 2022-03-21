@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+
 .container_header{
   display: flex;
   flex-direction: column;
 }
 
 .title {
+  font-family: 'Patua One', cursive;;
   display: flex;
   align-items: center;
   line-height: 1.15;
@@ -13,8 +16,8 @@
 }  
 
 .logo{
-    width: 50px;
-    height: 50px;
+    width: 80px;
+    height: 80px;
   }
 
   .code{
@@ -25,6 +28,6 @@
     align-self: center;
     text-align: center;
     align-content: center;
-    background: #8350e2;
+    background: #bf8df2;
     border-radius: 5px;
   }
