@@ -1,6 +1,7 @@
 import styles from '../styles/Home.module.css'
 import Page from './../src/components/Page'
 import Header from '../src/components/header'
+import Dash from '../src/components/dash'
 
 export default function Home() {
   return (
@@ -8,18 +9,8 @@ export default function Home() {
       <main className={styles.main}>
 
       <Header/>
-
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Code Radio &rarr;</h2>
-            <p>Find out your inner peace and bring some emotions to your project.</p>
-          </a>
-        </div>
-        
+      <Dash/>
+      
       </main>
 
       <footer className={styles.footer}>
