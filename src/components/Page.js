@@ -4,8 +4,11 @@ function Page({title, description, children}){
     return(
         <div>
             <Head>
-                <title>{title}</title>
-                <meta name="description" content="{description}"/>
+            <link rel="preconnect" href="https://fonts.googleapis.com"/>
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/>
+            <link href="https://fonts.googleapis.com/css2?family=Patua+One&display=swap" rel="stylesheet"/>
+            <title>{title}</title>
+            <meta name="description" content="{description}"/>
             </Head>
             {children}
         </div>
@@ -13,3 +16,4 @@ function Page({title, description, children}){
 }
 
 export default Page
+
