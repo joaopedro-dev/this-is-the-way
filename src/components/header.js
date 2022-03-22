@@ -7,7 +7,7 @@ function Header(){
           <h1 className={styles.title}>
             The Developer Journey <img className={styles.logo} src="crystal.png"/>
           </h1>
-          <code className={styles.code}>may the coffe be with you</code>
+          <code className={styles.code}>Thayna gostosa</code>
         </div>
       </div>
     )
