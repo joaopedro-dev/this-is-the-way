@@ -5,7 +5,7 @@ function Page({title, description, children}){
         <div>
             <Head>
             <link rel="preconnect" href="https://fonts.googleapis.com"/>
-            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/>
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anounymos"/>
             <link href="https://fonts.googleapis.com/css2?family=Patua+One&display=swap" rel="stylesheet"/>
             <title>{title}</title>
             <meta name="description" content="{description}"/>
