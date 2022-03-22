@@ -5,12 +5,12 @@ function Dash() {
     <div className={styles.grid}>
 
       <a href="https://nextjs.org/docs" className={styles.card}>
-        <h2>Documentation &rarr;</h2>
+        <h2>Documentation 🖺</h2>
         <p>Find in-depth information about Next.js features and API.</p>
       </a>
 
       <a href="https://nextjs.org/docs" className={styles.card}>
-        <h2>Code Radio &rarr;</h2>
+        <h2>Code Radio 📻</h2>
         <p>
           Find out your inner peace and bring some emotions to your project.
         </p>
