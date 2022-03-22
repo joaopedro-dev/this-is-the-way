@@ -16,14 +16,14 @@ function Dash() {
       <div/>
       <div className={styles.grid}>
         <a href="https://nextjs.org/docs" className={styles.card}>
-          <h3>Dev Order 🖺</h3>
+          <h3>Dev Order</h3>
           <p>Find in-depth information about Next.js features and API.</p>
         </a>
 
         <a href="https://nextjs.org/docs" className={styles.card}>
-          <h3>Code Radio 📻</h3>
+          <h3>Code Radio</h3>
           <p>
-            Find out your inner peace and bring some emotions to your project.
+            Find out and bring some emotions to your project.
           </p>
         </a>
       </div>

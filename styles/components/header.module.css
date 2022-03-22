@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&family=Roboto+Mono:wght@200&family=Space+Mono&display=swap');
 
 .container_header{
   display: flex;
@@ -21,6 +21,7 @@
   }
 
   .code{
+    font-family: 'Space Mono', monospace;
     padding: 1rem;
     display: flex;
     align-items: center;
