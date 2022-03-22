@@ -11,9 +11,7 @@ function Dash() {
         quis, efficitur dui. Sed porttitor nisi non mauris maximus porttitor.
         Proin iaculis mollis nulla imperdiet sollicitudin. Fusce ut placerat
         augue, id finibus lorem. Pellentesque feugiat suscipit arcu, a egestas
-        massa volutpat ac. In eleifend neque lorem, commodo molestie arcu
-        interdum eget. Proin vitae elit vitae ligula viverra accumsan porta nec
-        nisi. Duis sed posuere sapien.
+        massa volutpat ac.
       </p>
       <div/>
       <div className={styles.grid}>

@@ -53,4 +53,11 @@
       width: 100%;
       flex-direction: column;
     }
+    
+    .dashboard{
+      justify-content: center;
+      align-items: center;
+      max-width: 280px;
+    }
+    
   }
