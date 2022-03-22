@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+
 .nav {
+  font-family: 'Patua One', cursive;
   display: flex;
   flex: 1;
   padding: 1rem;
