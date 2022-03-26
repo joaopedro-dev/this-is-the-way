@@ -9,7 +9,6 @@ function Foot() {
         width="40%"
         height="80"
         frameBorder="0"
-        allowfullscreen=""
         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
       ></iframe>
       <a
