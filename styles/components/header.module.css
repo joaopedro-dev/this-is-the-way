@@ -6,6 +6,7 @@
 }
 
 .title {
+  color: aliceblue;
   font-family: "Patua One", cursive;
   display: flex;
   align-items: center;

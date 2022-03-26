@@ -7,19 +7,14 @@ function Dash() {
       <div>
         <h2>This is the Way &rarr;</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
-          lacinia lectus a dictum blandit. Duis ac erat aliquet, semper tellus
-          quis, efficitur dui. Sed porttitor nisi non mauris maximus porttitor.
-          Proin iaculis mollis nulla imperdiet sollicitudin. Fusce ut placerat
-          augue, id finibus lorem. Pellentesque feugiat suscipit arcu, a egestas
-          massa volutpat ac.
+          Find out the power inside you, in this journey you need to battle with dark side inside you and inside all the internet
         </p>
         <div />
         <div className={styles.grid}>
           <a className={styles.card}>
-            <Image src="/star_wars2.png" alt="Logo" width={100} height={100} />
+            <Image src="/book_2.png" alt="Logo" width={80} height={80} />
             <h3>The Manifesto</h3>
-            <p>Find out and bring some emotions to your project.</p>
+            <p>Here are our perspective of life mening when we are talking about tecnology.</p>
           </a>
           <a className={styles.card}>
             <Image src="/star_wars.png" alt="Logo" width={100} height={100} />

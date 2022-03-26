@@ -1,4 +1,5 @@
 .dashboard{
+  color: aliceblue;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -27,7 +28,7 @@
     border: 1.5px solid #eaeaea;
     border-radius: 10px;
     max-width: 350px;
-    border-color: #7243c9;
+    border-color: #bf8df2;
   }
   
   .card:hover,
