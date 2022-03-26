@@ -7,7 +7,7 @@ function Header(){
         <div className={styles.container_header}>
           <h1 className={styles.title}>
             The Developer Journey 
-            <Image src="/crystal.png" alt="Logo" width={80} height={80} />
+            <Image src="/crystal_3.png" alt="Logo" width={80} height={80} />
           </h1>
           <code className={styles.code}>may the coffee be with you</code>
         </div>

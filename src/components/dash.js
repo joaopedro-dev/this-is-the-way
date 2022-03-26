@@ -12,7 +12,7 @@ function Dash() {
         <div />
         <div className={styles.grid}>
           <a className={styles.card}>
-            <Image src="/book_2.png" alt="Logo" width={80} height={80} />
+            <Image src="/book_3.png" alt="Logo" width={80} height={80} />
             <h3>The Manifesto</h3>
             <p>Here are our perspective of life mening when we are talking about tecnology.</p>
           </a>
