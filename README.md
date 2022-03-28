@@ -1,5 +1,11 @@
-<img src="https://raw.githubusercontent.com/gist/joaopedro-dev/4c1f100bd520a700530475f6283e1b6b/raw/5aee8e1e88f6a9347d884fcafc057fc7985861b3/dev_journey_logo.svg"></img>
-> Status : Developing and Deploying to test on https://this-is-the-way.vercel.app/ ⚠️
+`Status : Developing and Deploying`
+<br></br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/gist/joaopedro-dev/4c1f100bd520a700530475f6283e1b6b/raw/5aee8e1e88f6a9347d884fcafc057fc7985861b3/dev_journey_logo.svg" align="center"></img>
+</div>
+
+<br></br>
 ## Getting Started
 
 First, run the development server:
