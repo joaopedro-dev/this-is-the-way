@@ -20,7 +20,7 @@ function Foot() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        <Image src="/linkedin.png" alt="Logo" width={40} height={40} />
+        <Image src="/linkedin.png" alt="Logo" width={42} height={42} />
         </a>
       </div>      
     </footer>
