@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/gist/joaopedro-dev/4c1f100bd520a700530475f6283e1b6b/raw/2ae052b1415849533c48964e595ed70c8ff8e0ce/dev_journey_logo.svg"></img>
+<img src="https://raw.githubusercontent.com/gist/joaopedro-dev/4c1f100bd520a700530475f6283e1b6b/raw/5aee8e1e88f6a9347d884fcafc057fc7985861b3/dev_journey_logo.svg"></img>
 > Status : Developing and Deploying to test on https://this-is-the-way.vercel.app/ ⚠️
 ## Getting Started
 
