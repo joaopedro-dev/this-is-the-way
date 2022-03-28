@@ -14,12 +14,12 @@ function Dash() {
           <a className={styles.card}>
             <Image src="/book_3.png" alt="Logo" width={80} height={80} />
             <h3>The Manifesto</h3>
-            <p>Here are our perspective of life mening when we are talking about tecnology.</p>
+            <p>Here are our purpose and perspective of life</p>
           </a>
           <a className={styles.card}>
-            <Image src="/star_wars.png" alt="Logo" width={100} height={100} />
+            <Image src="/planet.png" alt="Logo" width={100} height={100} />
             <h3>The Journey</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>Here you will start the journey to change your destiny</p>
           </a>
         </div>
       </div>

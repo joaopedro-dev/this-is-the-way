@@ -6,7 +6,7 @@
 }
 
 .title {
-  color: aliceblue;
+  color: rgb(255, 255, 255);
   font-family: "Patua One", cursive;
   display: flex;
   align-items: center;

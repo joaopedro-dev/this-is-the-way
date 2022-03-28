@@ -11,10 +11,9 @@ export default function Home() {
       
       <Nav/>
       <main className={styles.main}>
-      <Header/>
-      <Dash/>
-      </main>
-      
+        <Header/>
+        <Dash/>
+      </main> 
       <Foot/>
     </Page>
   )

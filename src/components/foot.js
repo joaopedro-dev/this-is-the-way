@@ -4,20 +4,25 @@ import Image from "next/image";
 function Foot() {
   return (
     <footer className={styles.footer}>
-      <a
-        href="https://github.com/joaopedro-dev"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <Image src="/GitHub.png" alt="Logo" width={45} height={45} />
-      </a>
-      <a
-        href="https://github.com/joaopedro-dev"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <Image src="/spotify_4.png" alt="Logo" width={50} height={50} />
-      </a>
+      <div className={styles.foot_head}>
+        <h3>The DevOrder</h3>
+      </div>
+      <div className={styles.foot_icons}>
+        <a
+          href="https://github.com/joaopedro-dev"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <Image src="/GitHub.png" alt="Logo" width={45} height={45} />
+        </a>
+        <a
+          href="https://github.com/joaopedro-dev"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+        <Image src="/linkedin.png" alt="Logo" width={40} height={40} />
+        </a>
+      </div>      
     </footer>
   );
 }

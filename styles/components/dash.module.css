@@ -1,5 +1,5 @@
 .dashboard{
-  color: aliceblue;
+  color: rgb(255, 255, 255);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -58,7 +58,7 @@
     .dashboard{
       justify-content: center;
       align-items: center;
-      max-width: 320px;
+      max-width: 350px;
     }
     
   }
