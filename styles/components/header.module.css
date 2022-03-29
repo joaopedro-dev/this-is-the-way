@@ -9,6 +9,7 @@
 }
 
 .title {
+  display: flex;
   color: rgb(255, 255, 255);
   font-family: "Patua One", cursive;
   display: flex;
