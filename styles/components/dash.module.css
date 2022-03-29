@@ -1,4 +1,6 @@
-.dashboard{
+ @import url("https://fonts.googleapis.com/css2?family=Patua+One&family=Roboto+Mono:wght@200&family=Space+Mono&display=swap");
+
+ .dashboard{
   color: rgb(255, 255, 255);
   display: flex;
   flex-direction: column;
@@ -49,7 +51,7 @@
     line-height: 1;
   }
   
-  @media (max-width: 600px) {
+  @media (max-width: 701px) {
     .grid {
       width: 100%;
       flex-direction: column;
@@ -58,7 +60,7 @@
     .dashboard{
       justify-content: center;
       align-items: center;
-      max-width: 350px;
+      max-width: 400px;
     }
     
   }
