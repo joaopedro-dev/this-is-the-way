@@ -16,7 +16,7 @@ function Foot() {
           <Image src="/GitHub.png" alt="Logo" width={45} height={45} />
         </a>
         <a
-          href="https://github.com/joaopedro-dev"
+          href="https://www.linkedin.com/in/joaopedro-dev/  "
           target="_blank"
           rel="noopener noreferrer"
         >

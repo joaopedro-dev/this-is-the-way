@@ -1,0 +1,14 @@
+.container_building{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title_build{
+    font-family: "Patua One", cursive;
+    color: aliceblue;
+}
+
+.error{
+    color: aliceblue;
+}

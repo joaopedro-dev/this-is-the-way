@@ -1,5 +1,6 @@
 import styles from "../../styles/components/dash.module.css";
 import Image from "next/image";
+import Link from "next/link";
 
 function Dash() {
   return (
@@ -11,16 +12,20 @@ function Dash() {
         </p>
         <div />
         <div className={styles.grid}>
-          <a className={styles.card}>
-            <Image src="/book_3.png" alt="Logo" width={80} height={80} />
-            <h3>The Manifesto</h3>
-            <p>Here are our purpose and perspective of life</p>
-          </a>
-          <a className={styles.card}>
-            <Image src="/planet.png" alt="Logo" width={100} height={100} />
-            <h3>The Journey</h3>
-            <p>Here you will start the journey to change your destiny</p>
-          </a>
+          <Link href="/manifesto">
+            <a className={styles.card}>
+              <Image src="/book_3.png" alt="Logo" width={80} height={80} />
+              <h3>The Manifesto</h3>
+              <p>Here are our purpose and perspective of life</p>
+            </a>
+          </Link>
+          <Link href="/journey">
+            <a className={styles.card}>
+              <Image src="/planet.png" alt="Logo" width={100} height={100} />
+              <h3>The Journey</h3>
+              <p>Here you will start the journey to change your destiny</p>
+            </a>
+          </Link>
         </div>
       </div>
     </div>
