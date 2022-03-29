@@ -1,8 +1,9 @@
 .nav {
   font-family: "Patua One", cursive;
+  font-size: 23px;
   display: flex;
   flex: 1;
-  padding: 1rem;
+  padding: 0.7rem;
   background: #BEAEE2;
   justify-content: space-between;
   align-items: center;

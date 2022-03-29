@@ -5,7 +5,7 @@ function Foot() {
   return (
     <footer className={styles.footer}>
       <div className={styles.foot_head}>
-        <h3>DevOrder</h3>
+        <h2>DevOrder</h2>
       </div>
       <div className={styles.foot_icons}>
         <a
