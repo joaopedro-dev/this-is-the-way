@@ -1,6 +1,11 @@
 .container_header {
   display: flex;
   flex-direction: column;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  justify-content: center;
+  max-width: 800px;
 }
 
 .title {
@@ -8,6 +13,8 @@
   font-family: "Patua One", cursive;
   display: flex;
   align-items: center;
+  align-items: center;
+  justify-content: center;
   line-height: 1.15;
   font-size: 3.5rem;
   text-align: center;
