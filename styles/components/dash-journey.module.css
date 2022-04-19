@@ -1,0 +1,64 @@
+.dashboard {
+  color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  max-width: 800px;
+  padding: 0.7em;
+}
+
+.dashboard h2 {
+  font-family: "Patua One", cursive;
+}
+
+.grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin: 1.1rem;
+  padding: 1.1rem;
+  text-align: center;
+  color: inherit;
+  text-decoration: none;
+  border: 2px solid #eaeaea;
+  border-radius: 8px;
+  width: 300px;
+  border-color: #beaee2;
+}
+
+.card:hover,
+.card:focus,
+.card:active {
+  background-color: #ae99c279;
+}
+
+.card h3 {
+  font-family: "Patua One", cursive;
+  margin: 0 0 1rem 0;
+  font-size: 1.5rem;
+}
+
+.card p {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+@media (max-width: 701px) {
+  .grid {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .dashboard {
+    justify-content: center;
+    align-items: center;
+    max-width: 400px;
+  }
+}

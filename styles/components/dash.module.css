@@ -22,12 +22,12 @@
 
 .card {
     margin: 1rem;
-    padding: 1.5rem;
+    padding: 1.4rem;
     text-align: center;
     color: inherit;
     text-decoration: none;
     border: 1.5px solid #eaeaea;
-    border-radius: 10px;
+    border-radius: 8px;
     max-width: 350px;
     border-color: #BEAEE2;
   }
