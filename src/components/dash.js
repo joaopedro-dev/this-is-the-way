@@ -9,7 +9,7 @@ function Dash() {
           <Link href="/manifesto">
             <a className={styles.card}>
               <Image src="/astronaut.png" alt="Logo" width={90} height={90} />
-              <h3>The Manifesto</h3>
+              <h3>Manifesto</h3>
               <p>Here are our purpose and perspective of life</p>
             </a>
           </Link>
