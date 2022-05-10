@@ -2,7 +2,6 @@
   background: #BEAEE2;
   font-family: "Patua One", cursive;
   justify-content: center;
-  font-size: 22px;
   display: flex;
   flex: 1;
   align-items: center;
@@ -11,7 +10,7 @@
 }
 
 .container_nav{
-  padding: 1rem;
+  padding: 0.5rem;
   display: flex;
   justify-content: space-between;
   flex: 1;

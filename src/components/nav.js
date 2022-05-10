@@ -7,8 +7,13 @@ function Nav() {
     <nav className={styles.nav}>
       <div className={styles.container_nav}>
         <Link href="/">
-          <a className={styles.item_nav}>
-            Home
+          <a>
+            <Image src="/space.png" alt="Logo" width={50} height={50} />
+          </a>
+        </Link>
+        <Link href="/">
+          <a>
+            <Image src="/book_3.png" alt="Logo" width={40} height={40} />
           </a>
         </Link>
       </div>
