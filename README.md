@@ -1,31 +1,10 @@
-`Status : Developing and Deploying`
-<br></br>
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/gist/joaopedro-dev/4c1f100bd520a700530475f6283e1b6b/raw/5aee8e1e88f6a9347d884fcafc057fc7985861b3/dev_journey_logo.svg" align="center"></img>
+  <a href="https://this-is-the-way.vercel.app/">
+        <img src="https://raw.githubusercontent.com/gist/joaopedro-dev/4c1f100bd520a700530475f6283e1b6b/raw/48c77d478cb0ede90e207b1847c0cab65872b14e/dev_journey_logo.svg" alt="Table" width="400">
+  </a>
+  <br />
+  <h3>
+    <a href="https://this-is-the-way.vercel.app/">Read on the website</a>
+  </h3>
 </div>
 
-<br></br>
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
