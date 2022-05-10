@@ -1,5 +1,6 @@
 import styles from "../../styles/components/nav.module.css";
 import Link from "next/link";
+import Image from "next/image";
 
 function Nav() {
   return (
@@ -8,11 +9,6 @@ function Nav() {
         <Link href="/">
           <a className={styles.item_nav}>
             Home
-          </a>
-        </Link>
-        <Link href="/about">
-          <a className={styles.item_nav}>
-            About
           </a>
         </Link>
       </div>

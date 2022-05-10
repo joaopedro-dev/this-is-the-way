@@ -7,6 +7,7 @@
   align-self: center; 
   max-width: 800px; 
   padding: 0.5em;
+  margin: 2rem;
 }
 
 .dashboard h2{
@@ -26,10 +27,16 @@
     text-align: center;
     color: inherit;
     text-decoration: none;
-    border: 1.5px solid #eaeaea;
+    border: 2px solid #eaeaea;
     border-radius: 8px;
-    max-width: 350px;
+    width: 18rem;
+    height: 20rem;
     border-color: #BEAEE2;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    justify-content: center;
   }
   
   .card:hover,
@@ -40,7 +47,7 @@
   
   .card h3 {
     font-family: 'Patua One', cursive;
-    margin: 0 0 1rem 0;
+    margin: 1rem;
     font-size: 1.5rem;
   }
   
