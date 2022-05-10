@@ -7,7 +7,7 @@ import Nav from '../src/components/nav'
 
 export default function Home() {
   return (
-    <Page title="The Dev Journey - Home" description="Home" className={styles.container}>
+    <Page title="DevJourney | Home" description="Home" className={styles.container}>
       <Nav/>
       <main className={styles.main}>
         <Header/>
