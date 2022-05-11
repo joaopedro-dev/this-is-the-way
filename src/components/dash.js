@@ -17,7 +17,7 @@ function Dash() {
             <a className={styles.card}>
               <Image src="/planet.png" alt="Logo" width={90} height={90} />
               <h3>The Journey</h3>
-              <p>Here you will start the journey to change your destiny</p>
+              <p>Here you start the journey to change your destiny</p>
             </a>
           </Link>
         </div>
