@@ -5,7 +5,7 @@
   align-items: center;
   justify-content: center;
   align-self: center;
-  max-width: 800px;
+  max-width: 700px;
   padding: 0.7em;
 }
 
@@ -21,8 +21,8 @@
 }
 
 .card {
-  height: 16rem;
-  width: 14rem;
+  height: 15rem;
+  width: 15rem;
   margin: 1rem;
   padding: 1rem;
   text-align: center;
