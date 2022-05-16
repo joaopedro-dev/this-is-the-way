@@ -6,10 +6,6 @@ function DashJourney() {
   return (
     <div className={styles.dashboard}>
       <div>
-        <h2>The Journey &rarr;</h2>
-        <p>
-            Follow the way to find out the Developer inside you, and feel the force, belive in the power of tecnology and your own solutions.
-        </p>
         <div className={styles.grid}>
           <Link href="">
             <a className={styles.card}>

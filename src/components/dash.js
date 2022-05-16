@@ -10,14 +10,14 @@ function Dash() {
             <a className={styles.card}>
               <Image src="/astronaut.png" alt="Logo" width={90} height={90} />
               <h3>Manifesto</h3>
-              <p>Here are our purpose and perspective of life</p>
+              <p>Here are our purpose and perspective</p>
             </a>
           </Link>
           <Link href="/journey">
             <a className={styles.card}>
               <Image src="/planet.png" alt="Logo" width={90} height={90} />
               <h3>The Journey</h3>
-              <p>Here you start the journey to change your destiny</p>
+              <p>This is the journey to change your destiny forever</p>
             </a>
           </Link>
         </div>
