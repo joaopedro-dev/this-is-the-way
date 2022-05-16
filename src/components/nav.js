@@ -11,7 +11,7 @@ function Nav() {
             <Image src="/space.png" alt="Logo" width={50} height={50} />
           </a>
         </Link>
-        <Link href="/">
+        <Link href="/about">
           <a>
             <Image src="/book_3.png" alt="Logo" width={40} height={40} />
           </a>

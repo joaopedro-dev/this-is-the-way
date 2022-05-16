@@ -1,21 +1,10 @@
 .footer {
-  font-family: "Patua One", cursive;
-  background-color: #BEAEE2;
+  color: #FFF;
+  font-size: 15px;
   display: flex;
   flex-direction: column;
   flex: 1;
   justify-content: center;
   align-items: center;
-}
-
-.foot_icons{
-  width: 350px;
-  border-top: solid 1px rgb(0, 0, 0);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.foot_icons a {
-  padding: 1rem;
+  font-family: "Patua One", cursive;
 }
