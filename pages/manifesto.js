@@ -8,7 +8,6 @@ import Manifesto_card from '../src/components/manifesto_card'
 export default function Home() {
   return (
     <Page title="Manifesto" description="Teste" className={styles.container}>   
-      <Nav/>
       <main className={styles.main}>
         <Header/>
         <Manifesto_card/>

@@ -1,16 +1,13 @@
 import styles from '../styles/Home.module.css'
 import Page from './../src/components/Page'
-import Header from '../src/components/header'
-import Dash from '../src/components/dash'
+import Building from '../src/components/building'
 import Foot from '../src/components/foot'
-import Nav from '../src/components/nav'
 
 export default function Home() {
   return (
     <Page title="DevJourney | Home" description="Home" className={styles.container}>  
       <main className={styles.main}>
-        <Header/>
-        <Dash/>
+        <Building/>
       </main> 
       <Foot/>
     </Page>

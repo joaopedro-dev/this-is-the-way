@@ -1,6 +1,27 @@
 .container{
     background-color: #BEAEE2;
     width: 40rem;
-    height: 40rem;
-    border-top: 5rem solid #B199D9;
+    height: 50rem;
+    border-top: 5rem solid #B199D9; 
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.title{
+    font-family: "Space Mono", monospace;
+}
+
+.articles{
+    margin: 1rem;
+}
+
+.subArticles{
+    margin: 1rem;
+}
+
+.lines{
+    margin: 1rem;
 }

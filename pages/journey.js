@@ -8,7 +8,6 @@ import DashJourney from '../src/components/dash_journey'
 export default function Home() {
   return (
     <Page title="The Journey" description="Teste" className={styles.container}>   
-      <Nav/>
       <main className={styles.main}>
         <Header/>
         <DashJourney/>

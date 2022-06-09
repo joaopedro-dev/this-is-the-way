@@ -5,8 +5,7 @@
   align-items: center;
   justify-content: center;
   align-self: center;  
-  padding: 0.5em;
-  margin: 2rem;
+  margin: 1rem;
 }
 
 .dashboard h2{
@@ -36,7 +35,15 @@
     align-content: center;
     flex-direction: column;
     justify-content: center;
-} 
+    cursor: pointer;
+}
+
+.card:hover,
+.card:focus,
+.card:active {
+  background-color: #ae99c279;
+}
+
   .card h3 {
     font-family: 'Patua One', cursive;
     margin: 1rem;
