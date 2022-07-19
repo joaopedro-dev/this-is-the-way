@@ -12,6 +12,11 @@
 
 .title{
     font-family: "Space Mono", monospace;
+    display: flex;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    flex-direction: column;
 }
 
 .articles{
@@ -25,3 +30,36 @@
 .lines{
     margin: 1rem;
 }
+
+@media (max-width: 850px) {
+    .container{
+        width: 25rem;
+        height: 100%;
+    }
+    
+  }
+
+  @media (max-width: 530px) {
+    .container{
+        width: 15rem;
+        height: 100%;
+        border-top: 2.5rem solid #B199D9; 
+    }
+    
+    .articles{
+        margin: 0.2rem;
+    }
+    
+    .subArticles{
+        margin: 0.2rem;
+    }
+    
+    .lines{
+        margin: 0.5rem;
+    }
+
+    .title{
+        margin: 1rem;
+        font-size: 23px;
+    }
+  }
