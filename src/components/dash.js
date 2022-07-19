@@ -74,7 +74,7 @@ function Dash() {
             },
           }}
         >
-          <Link href="/manifesto">
+          <Link href="/blog">
             <a className={styles.card}>
               <Image src="/book_3.png" alt="Logo" width={90} height={90} />
               <h3>Blog</h3>
